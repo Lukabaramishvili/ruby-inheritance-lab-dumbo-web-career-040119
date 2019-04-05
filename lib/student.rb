@@ -1,5 +1,5 @@
 class Student < User
 
-    KNOWLEDGE = []
+  KNOWLEDGE = []
 
 end
