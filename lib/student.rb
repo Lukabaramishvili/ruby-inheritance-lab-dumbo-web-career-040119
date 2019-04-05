@@ -1,8 +1,8 @@
 class Student < User
 
- 
-  def teach 
     KNOWLEDGE = []
+    
+  def teach 
     KNOWLEDGE.sample
   end
 end
